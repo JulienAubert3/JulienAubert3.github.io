@@ -28,7 +28,8 @@
   <section id="about">
     <div class="container">
       <h2>About Me</h2>
-      <p>A brief introduction about your background, research interests, and current work.</p>
+      <p>I am a PhD student in Applied Mathematics at the Université Côte d'Azur, where I am part of the J. A. Dieudonné laboratory. I am currently working on parameters estimation in bandit algorithms under the supervision of Patricia Reynaud-Bouret and Luc Lehéricy. The purpose of our work is to establish a theoretical framework for fitting parameters of cognitive models in neurosciences.
+Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained an MSc in Mathematical Sciences from Oxford University.</p>
     </div>
   </section>
 
