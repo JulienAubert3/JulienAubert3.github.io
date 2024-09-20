@@ -11,8 +11,8 @@
 <body>
   <header>
     <div class="container">
-      <h1>Your Name</h1>
-      <p>Your Title and Affiliation</p>
+      <h1>Julien Aubert</h1>
+      <p>PhD student at the Université Côte d'Azur</p>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
