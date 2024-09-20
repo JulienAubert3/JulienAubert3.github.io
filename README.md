@@ -36,7 +36,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
   <section id="research">
     <div class="container">
       <h2>Research Interests</h2>
-      <p> My PhD focuses on the modeling of learning from behavioral data of an individual. Is it possible to obtain theoretical properties on maximum likelihood estimation for non stationary and non independent data? Modeling a learning task deals also with finding the model that describes best the behavior of the individual among a class of models. But up to our knowledge, no theoretical results cover this learning framework. Is it possible to find model selection procedures, like an AIC-type criterion for model selection, or a hold-out criterion, in a learning framework? </p>
+      <p> My PhD focuses on the modeling of learning from behavioral data of an individual. Is it possible to obtain theoretical properties on maximum likelihood estimation for non stationary and non independent data? Modeling a learning task deals also with finding the model that describes best the behavior of the individual among a class of models. But up to our knowledge, no theoretical results cover this learning framework. Is it possible to find model selection procedures, like an AIC-type criterion for model selection, or a hold-out criterion, in a learning framework? <br> To do so we use reiforcement learning algorithms and more specifically bandit algorithms as models of learning. These questions involve concentration inequalities, penalized maximum likelihood estimation, hold-out procedures, contextual bandit algorithms. We also work on some applications in ethology and in a categorization task. </p>
     </div>
   </section>
 
