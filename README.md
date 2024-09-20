@@ -62,7 +62,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
   <section id="contact">
     <div class="container">
       <h2>Contact Me</h2>
-      <form action="mailto:youremail@example.com" method="post">
+      <form action="mailto:julien.aubert@univ-cotedazur.fr" method="post">
         <input type="text" name="name" placeholder="Your Name">
         <input type="email" name="email" placeholder="Your Email">
         <textarea name="message" placeholder="Your Message"></textarea>
@@ -73,7 +73,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
 
   <footer>
     <div class="container">
-      <p>&copy; 2024 Your Name. All Rights Reserved.</p>
+      <p>&copy; 2024 Julien Aubert. All Rights Reserved.</p>
     </div>
   </footer>
 </body>
