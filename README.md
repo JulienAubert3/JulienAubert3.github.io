@@ -36,7 +36,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
   <section id="research">
     <div class="container">
       <h2>Research Interests</h2>
-      <p>A description of your research topics, methods, and key questions.</p>
+      <p> My PhD focuses on the modeling of learning from behavioral data of an individual. Is it possible to obtain theoretical properties on maximum likelihood estimation for non stationary and non independent data? Modeling a learning task deals also with finding the model that describes best the behavior of the individual among a class of models. But up to our knowledge, no theoretical results cover this learning framework. Is it possible to find model selection procedures, like an AIC-type criterion for model selection, or a hold-out criterion, in a learning framework? </p>
     </div>
   </section>
 
