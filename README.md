@@ -53,7 +53,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
   <section id="cv">
     <div class="container">
       <h2>Curriculum Vitae</h2>
-      <a href="cv-link.pdf" download>Download my CV</a>
+      <a href="CV_Julien_Aubert (6).pdf" download>Download my CV</a>
     </div>
   </section>
 
