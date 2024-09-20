@@ -45,7 +45,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
       <h2>Publications</h2>
       <ul>
         <li><a href="https://github.com/JulienAubert3/JulienAubert3.github.io/blob/main/Learning%20how%20contextual%20bandits%20learn.pdf" target="_blank">Learning how contextual bandits learn </a>  - Preprint, 2024</li>
-         <li><a href="https://github.com/JulienAubert3/JulienAubert3.github.io/blob/main/Generaloracleinequalities.pdf" target="_blank">General oracle inequalities for a penalized log-likelihood criterion based on non-stationary data</a> - Preprint, 2024</li>
+         <li><a href="Generaloracleinequalities.pdf" target="_blank">General oracle inequalities for a penalized log-likelihood criterion based on non-stationary data</a> - Preprint, 2024</li>
         <li><a href="https://hal.univ-cotedazur.fr/hal-04526484v1/document">Exponential inequalities for suprema of processes with stochastic normalization</a> - Preprint, 2024</li>
         <li><a href="https://proceedings.mlr.press/v202/aubert23a/aubert23a.pdf">On the convergence of the MLE as an estimator of the learning rate in the Exp3 algorithm </a> - ICML, 2023</li>
       </ul>
