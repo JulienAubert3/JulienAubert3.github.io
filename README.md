@@ -44,7 +44,7 @@ Prior to my PhD, I was a student at the Ecole Centrale-Supélec. I also obtained
     <div class="container">
       <h2>Publications</h2>
       <ul>
-        <li><a href="publication-link">Title of Paper</a> - Journal Name, Year</li>
+        <li><a href="[publication-link](https://proceedings.mlr.press/v202/aubert23a/aubert23a.pdf)">On the convergence of the MLE as an estimator of the learning rate in the Exp3 algorithm /a> - ICML, 2023</li>
         <li><a href="publication-link">Another Paper</a> - Journal Name, Year</li>
       </ul>
     </div>
